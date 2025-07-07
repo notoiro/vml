@@ -1,3 +1,6 @@
+// PLZ Install
+// - node-web-audio-api, audiobuffer-to-wav, axios
+
 const { VML } = require("./index.js");
 const { default:axios } = require('axios');
 const { OfflineAudioContext } = require('node-web-audio-api');
